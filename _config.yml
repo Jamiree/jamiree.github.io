@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Jamiree Harrison"
   avatar           : "profile.png"
-  bio              : "Ph.D"
+  bio              : "Ph.D. student of Mechanical Engineering at UC Santa Barbara"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=aQ4AdwUAAAAJ&hl=en"
+  email            : "jamiree@ucsb.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jamiree"
+  github           : "Jamiree"
   google_plus      :
   keybase          :
   instagram        :
