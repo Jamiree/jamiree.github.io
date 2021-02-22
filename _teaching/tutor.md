@@ -8,7 +8,7 @@ date: 2021-01-01
 location: "City, Country"
 ---
 
-Statics (ME 14)
+Engineering Mechanics: Vibrations (ME 163)
 ===
 
 Control System Design (ME 155a)
