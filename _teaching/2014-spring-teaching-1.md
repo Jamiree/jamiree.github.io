@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of California, San Diego"
-date: 2016-2019
-location: "San Diego, California"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 Precalculus (Math 3a, 4a)
