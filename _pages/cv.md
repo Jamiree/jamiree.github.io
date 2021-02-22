@@ -9,5 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV_Jamiree_Harrison.pdf
+
+['My CV']('CV_Jamiree_Harrison.pdf')
 
