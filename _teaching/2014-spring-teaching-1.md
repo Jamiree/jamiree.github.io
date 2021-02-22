@@ -3,12 +3,14 @@ title: "Supplemental Instructor"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of California, San Diego"
+date: 2016-2019
+location: "San Diego, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Precalculus (Math 3a, 4a)
+Calculus 1,2,3 (Math 20a, 20b, 20c)
+Linear Algebra (Math 18)
 
 Heading 1
 ======
