@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-CV Jamiree Harrison.pdf
+CV_Jamiree_Harrison.pdf
 
