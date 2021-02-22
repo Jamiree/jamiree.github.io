@@ -10,10 +10,9 @@ redirect_from:
 
 Welcome to my webpage!
 
-Currently working under the advisory of Enoch Yeung in the Biological Control and Computing Learning (BCCL) Lab
+Currently working under the advisory of Enoch Yeung in the Biological Control and Computing Learning [(BCCL) Lab]('https://yeung.me.ucsb.edu/')
 
-BCCL website: https://yeung.me.ucsb.edu/.
 
 Interests : Controls, mathematical modeling, numerical analysis
 
-For more detailed info, please see my CV. 
+For more detailed info, please see my [CV]('CV_Jamiree_Harrison.pdf') . 
