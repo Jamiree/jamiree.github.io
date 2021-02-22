@@ -83,7 +83,7 @@ author:
   name             : "Jamiree Harrison"
   avatar           : "profile.png"
   bio              : "Ph.D. student of Mechanical Engineering at UC Santa Barbara"
-  location         : "Location"
+  location         : "Santa Barbara"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=aQ4AdwUAAAAJ&hl=en"
   email            : "jamiree@ucsb.edu"
@@ -101,8 +101,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jamireeharrison/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
