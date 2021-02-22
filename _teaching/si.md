@@ -9,7 +9,7 @@ location: "City, Country"
 ---
 
 Facilitated math workshops for college students.
-Worked with professors to develop lesson plans for college students.
+Worked with professors to develop lesson plans.
 Proctored Exams.
 
 Precalculus (Math 3a, 4a)
