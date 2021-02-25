@@ -15,4 +15,4 @@ Currently working under the advisory of Enoch Yeung in the Biological Control an
 
 Interests : Controls, mathematical modeling, numerical analysis
 
-For more detailed info, please see my [CV](CV_Jamiree_Harrison.pdf) . 
+For more detailed info, please see my [CV](http://jamiree.github.io/files/CV_Jamiree_Harrison.pdf) . 
