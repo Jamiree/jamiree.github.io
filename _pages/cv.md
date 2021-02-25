@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-[My CV](CV_Jamiree_Harrison.pdf)
+[My CV](http://jamiree.github.io/files/CV_Jamiree_Harrison.pdf)
 
