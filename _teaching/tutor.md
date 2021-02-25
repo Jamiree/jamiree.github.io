@@ -8,7 +8,7 @@ date: 2021-01-01
 location: "City, Country"
 ---
 
-Tutored students in the [ESTEEM program]('https://esteem.ucsb.edu/').
+Tutored students in the [ESTEEM program](https://esteem.ucsb.edu/).
 
 Engineering Mechanics: Vibrations (ME 163)
 ===
