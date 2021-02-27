@@ -35,6 +35,7 @@ Physics Youtube Channels:
 - [Sixty Symbols](https://www.youtube.com/user/sixtysymbols)
 
 Coding:
+- [Codecademy](https://www.codecademy.com/)
 
 Coding Youtube Channels: 
 - [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
