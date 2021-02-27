@@ -23,6 +23,21 @@ Math Youtube Channels:
 
 -[Nathan Kutz](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA)
 
+Physics: 
+-[Khan Academy](https://www.khanacademy.org/science/physics)
+
+Physics Youtube Channels: 
+-[Physics Girl](https://www.youtube.com/c/physicsgirl/videos)
+
+-[Veritasium](https://www.youtube.com/c/veritasium/videos)
+
+-[Sixty Symbols](https://www.youtube.com/user/sixtysymbols)
+
 Coding:
+
+Coding Youtube Channels: 
+-[Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
+
+-[Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 
 
