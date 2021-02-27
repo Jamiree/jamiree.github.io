@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 I've compiled a list of STEM Resources because I wanted to share effective teaching tools that have helped me. 
+This list is of course not exhaustive, so if you come across a good/fun resource feel free to send it my way.  
 
 Math: 
-
 - [Paul's online math notes](https://tutorial.math.lamar.edu/) has everything for high school and undergraduate students learning math.  Notes, Practice problems with step-by-step solutions, clear explanations, and it's free and easy to access.  
 
 Math Youtube Channels: 
@@ -34,10 +34,10 @@ Physics Youtube Channels:
 
 - [Sixty Symbols](https://www.youtube.com/user/sixtysymbols)
 
-Coding:
+Coding / Computer Science:
 - [Codecademy](https://www.codecademy.com/)
 
-Coding Youtube Channels: 
+Coding / CS Youtube Channels: 
 - [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
 
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
