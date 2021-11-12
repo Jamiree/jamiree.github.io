@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the pdf to my CV below.  
+You can find the pdf to my CV below.   
 
 [My CV](http://jamiree.github.io/files/CV_Jamiree_Harrison.pdf)
 
