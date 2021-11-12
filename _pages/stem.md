@@ -41,7 +41,6 @@ Learn Introductory Physics:
 - [Khan Academy](https://www.khanacademy.org/science/physics)
 
 Physics Youtube Channels: 
-- [Physics Girl](https://www.youtube.com/c/physicsgirl/videos)
 
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime)
 
