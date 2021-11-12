@@ -21,6 +21,9 @@ Learn Math:
 
 - For nonlinear dynamical systems, applied linear algebra, operator theory, machine learning, koopman operator theory, etc. check out [Nathan Kutz](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA).  He's kind enough to upload many lectures to youtube for free. 
 
+- For network systems, check out [Francesco Bullo](https://www.youtube.com/results?search_query=francesco+bullo). He's kind enough to upload many lectures to youtube for free. 
+
+
 Math Youtube Channels: 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has many great foundational series of many topics.  
 
@@ -32,13 +35,15 @@ Math Youtube Channels:
 
 - [Nathan Kutz](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA)
 
+- [Francesco Bullo](https://www.youtube.com/results?search_query=francesco+bullo)
+
 Learn Introductory Physics: 
 - [Khan Academy](https://www.khanacademy.org/science/physics)
 
 Physics Youtube Channels: 
 - [Physics Girl](https://www.youtube.com/c/physicsgirl/videos)
 
-- [Veritasium](https://www.youtube.com/c/veritasium/videos)
+- [PBS Space Time](https://www.youtube.com/c/pbsspacetime)
 
 - [Sixty Symbols](https://www.youtube.com/user/sixtysymbols)
 
