@@ -5,7 +5,7 @@ type: "Undergraduate courses"
 permalink: /teaching/supplementalinstructor
 venue: "University of California, San Diego"
 date: 2019-01-01
-location: "City, Country"
+location: "San Diego, U.S.A."
 ---
 
 Facilitated math workshops for college students.
