@@ -2,7 +2,7 @@
 title: "Supplemental Instructor"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/si
+permalink: /teaching/supplementalinstructor
 venue: "University of California, San Diego"
 date: 2019-01-01
 location: "City, Country"
