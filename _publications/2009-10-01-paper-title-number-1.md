@@ -9,6 +9,6 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Harrison, J.; Enoch, Y.: Stability Analysis of ParameterVarying Nonlinear Genetic Toggle Switches Using Koopman Operators. Mathematics 2021'
 ---
 
-[View Preprint here](http://academicpages.github.io/files/paper1.pdf)
+[Download here](http://jamiree.github.io/files/Stability_Analysis_of_Parameter_Varying_Nonlinear_Genetic_Switches_Using_Koopman_Operators.pdf)
 
 Recommended citation: Harrison, J.; Enoch, Y.: Stability Analysis of ParameterVarying Nonlinear Genetic Toggle Switches Using Koopman Operators. <i>Mathematics</i> 2021.
