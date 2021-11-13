@@ -16,3 +16,6 @@ Engineering Mechanics: Vibrations (ME 163)
 Control System Design (ME 155a)
 ===
 
+Robotic Dynamics and Control (ECE 179D)
+===
+
