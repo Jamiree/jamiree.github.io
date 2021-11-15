@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/supplementalinstructor
 venue: "University of California, San Diego"
-date: 2019-01-01
+date: 2019-06-01
 location: "San Diego, U.S.A."
 ---
 
