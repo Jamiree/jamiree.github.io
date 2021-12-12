@@ -6,6 +6,6 @@ excerpt: 'The genetic toggle switch is a well known model in synthetic biology t
 date: 2021-12-31
 venue: 'Mathematics (in preparation)'
 paperurl: 'https://www.mdpi.com/2227-7390/9/23/3133'
-citation: 'Harrison, J.; Enoch, Y.: Stability Analysis of ParameterVarying Genetic Toggle Switches Using Koopman Operators. Mathematics 2021'
+citation: 'Harrison, J.; Yeung, E. Stability Analysis of Parameter Varying Genetic Toggle Switches Using Koopman Operators. Mathematics 2021, 9, 3133. https://doi.org/10.3390/math9233133'
 ---
 
