@@ -23,6 +23,8 @@ Learn Math:
 
 - For network systems, check out [Francesco Bullo](https://www.youtube.com/results?search_query=francesco+bullo). He's kind enough to upload many lectures to youtube for free. 
 
+- For Koopman operator theory and dynamical systems, check out [Igor Mezic](https://www.youtube.com/@igormezic5715/videos). He's kind enough to upload many lectures to youtube for free. 
+
 
 Math Youtube Channels: 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has many great foundational series of many topics.  
@@ -36,6 +38,8 @@ Math Youtube Channels:
 - [Nathan Kutz](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA)
 
 - [Francesco Bullo](https://www.youtube.com/results?search_query=francesco+bullo)
+
+- [Igor Mezic](https://www.youtube.com/@igormezic5715/videos)
 
 Learn Introductory Physics: 
 - [Khan Academy](https://www.khanacademy.org/science/physics)
