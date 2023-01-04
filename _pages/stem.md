@@ -11,11 +11,14 @@ redirect_from:
 
 I've compiled a list of STEM Resources because I wanted to share effective teaching tools that have helped me. 
 This list is of course not exhaustive, so if you come across a good/fun resource feel free to send it my way.  
+There's numerous textbooks on each subject mentioned, 
 
 Learn Math: 
 - [Paul's online math notes](https://tutorial.math.lamar.edu/) has everything for high school and undergraduate students learning math.  Notes, Practice problems with step-by-step solutions, clear explanations, and it's free and easy to access.  
 
-- For linear algebra, check out the series by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
+- For linear algebra, calculus, and more, check out the series by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
+
+- For abstract algebra, number theory, mathematica, and more, check out [Socratica](https://www.youtube.com/@Socratica/playlists).
 
 - For nonlinear dynamical systems and more, check out [Shane Ross](https://www.youtube.com/user/RossDynamicsLab).  He's kind enough to upload many lectures to youtube for free. 
 
@@ -25,35 +28,22 @@ Learn Math:
 
 - For Koopman operator theory and dynamical systems, check out [Igor Mezic](https://www.youtube.com/@igormezic5715/videos). He's kind enough to upload many lectures to youtube for free. 
 
-
-Math Youtube Channels: 
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has many great foundational series of many topics.  
-
-- [Numberphile](https://www.youtube.com/user/numberphile)
-
-- [PBS Infinite Series](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g)
-
-- [Shane Ross](https://www.youtube.com/user/RossDynamicsLab)
-
-- [Nathan Kutz](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA)
-
-- [Francesco Bullo](https://www.youtube.com/results?search_query=francesco+bullo)
-
-- [Igor Mezic](https://www.youtube.com/@igormezic5715/videos)
+- For general math interest, check out [Numberphile](https://www.youtube.com/@numberphile). 
 
 Learn Introductory Physics: 
 - [Khan Academy](https://www.khanacademy.org/science/physics)
 
-Physics Youtube Channels: 
+Physics Youtube Channels to spark interest: 
 
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime)
 
 - [Sixty Symbols](https://www.youtube.com/user/sixtysymbols)
 
 Learn introductory Coding / Computer Science:
-- [Codecademy](https://www.codecademy.com/)
+- For python, java, c++, and several other languages, check out [Codecademy](https://www.codecademy.com/) for free interactive tutorials. 
+- For python, SQL, and more instructional videos, check out [Socratica](https://www.youtube.com/@Socratica/playlists).
 
-Coding / CS Youtube Channels: 
+Coding / CS Youtube Channels to spark interest: 
 - [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
 
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
