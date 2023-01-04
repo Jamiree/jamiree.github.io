@@ -11,7 +11,7 @@ redirect_from:
 
 I've compiled a list of STEM Resources because I wanted to share effective teaching tools that have helped me. 
 This list is of course not exhaustive, so if you come across a good/fun resource feel free to send it my way.  
-There's numerous textbooks on each subject mentioned, 
+There's numerous textbooks on each subject mentioned, so I thought to provide more audio-visual and interactive supplemental resources.  If you're interested in which which textbooks I would recommend, feel free to email me. 
 
 Learn Math: 
 - [Paul's online math notes](https://tutorial.math.lamar.edu/) has everything for high school and undergraduate students learning math.  Notes, Practice problems with step-by-step solutions, clear explanations, and it's free and easy to access.  
