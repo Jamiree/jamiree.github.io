@@ -31,6 +31,8 @@ Learn Math:
 - For general math interest, check out [Numberphile](https://www.youtube.com/@numberphile). 
 
 Learn Introductory Physics: 
+- [Open Source Physics](https://www.compadre.org/osp/EJSS//)
+
 - [Khan Academy](https://www.khanacademy.org/science/physics)
 
 Physics Youtube Channels to spark interest: 
