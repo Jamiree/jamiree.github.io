@@ -14,7 +14,7 @@ My current projects:
 
 -Developing a hybrid promoter library which will provide a number of promoters which have distinct gene activation profiles in both log and stationary phase.  
 
--Validating time-varying genetic toggle switch models (proposed and analyzed in my [paper](paper1.pdf) using the promoters from my library.
+-Validating time-varying genetic toggle switch models proposed and analyzed in my [paper](paper1.pdf) using the promoters from my library.
 
 Interests : Control theory, bio-controls, mathematical modeling, system identification, numerical analysis
 
