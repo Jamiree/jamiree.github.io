@@ -1,11 +1,11 @@
 ---
-title: "Stability Analysis of Parameter Varying Genetic Toggle Switches Using Koopman Operators"
+title: "Quantitatively assessing wildfire risk (SIAM Grad Student Math Modeling Camp)"
 collection: publications
-permalink: /publication/2021-paper1
-excerpt: '[PDF](http://jamiree.github.io/files/paper1.pdf)'
-date: 2021-12-31
-venue: 'Mathematics'
+permalink: /publication/fire
+excerpt: '[PDF](http://jamiree.github.io/files/gsmmc2023_fire.pdf)'
+date: 2023-06-16
+venue: 'GSMMC'
 paperurl: 
-citation: 'Harrison, J.; Yeung, E. Stability Analysis of Parameter Varying Genetic Toggle Switches Using Koopman Operators. Mathematics 2021, 9, 3133. https://doi.org/10.3390/math9233133'
+citation: ''
 ---
 
