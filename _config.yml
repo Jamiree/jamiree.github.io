@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jamiree Harrison"
 title_separator          : "-"
 name                     : &name "Jamiree Harrison"
-description              : &description "Ph.D. student of Mechanical Engineering at UC Santa Barbara"
+description              : &description "Ph.D. Candidate | Mechanical Engineering at UC Santa Barbara"
 url                      : https://jamiree.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jamiree/jamiree.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jamiree Harrison"
   avatar           : "jam$.jpg"
-  bio              : "Ph.D. student of Mechanical Engineering at UC Santa Barbara"
+  bio              : "Ph.D. Candidate | Mechanical Engineering at UC Santa Barbara"
   location         : "Santa Barbara"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=aQ4AdwUAAAAJ&hl=en"
