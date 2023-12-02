@@ -9,3 +9,4 @@ paperurl:
 citation: 'currently under review'
 ---
 
+[Download paper here](https://jamiree.github.io/files/MPI2023VIRONIX.pdf)

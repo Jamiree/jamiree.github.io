@@ -9,3 +9,4 @@ paperurl:
 citation: 'Aminian et al.; GSMMC 2023: Fire Risk' 
 ---
 
+[Download paper here](https://jamiree.github.io/files/gsmmc2023_fire.pdf)
