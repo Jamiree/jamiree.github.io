@@ -6,6 +6,6 @@ excerpt: '[PDF](http://jamiree.github.io/files/gsmmc2023_fire.pdf)'
 date: 2023-06-16
 venue: 'GSMMC'
 paperurl: 
-citation: 'Team Project'
+citation: 'Aminian et al.; GSMMC 2023: Fire Risk' 
 ---
 
