@@ -1,7 +1,7 @@
 ---
 title: "Stability Analysis of Parameter Varying Genetic Toggle Switches Using Koopman Operators"
 collection: publications
-permalink: /publication/2021-paper1
+permalink:
 excerpt: '[PDF](http://jamiree.github.io/files/paper1.pdf)'
 date: 2021-12-31
 venue: 'Mathematics'
