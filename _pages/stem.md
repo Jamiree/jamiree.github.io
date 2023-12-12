@@ -26,6 +26,8 @@ Learn Math:
 
 - For network systems, check out [Francesco Bullo](https://www.youtube.com/results?search_query=francesco+bullo). He's kind enough to upload many lectures to youtube for free. 
 
+- The [Data Science for Dynamical Systems](https://www.youtube.com/@UPB_DS4DS-bu8ec) course is highly recommended.
+
 - For Koopman operator theory and dynamical systems, check out [Igor Mezic](https://www.youtube.com/@igormezic5715/videos). He's kind enough to upload many lectures to youtube for free. 
 
 - For general math interest, check out [Numberphile](https://www.youtube.com/@numberphile). 
