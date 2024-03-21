@@ -2,7 +2,7 @@
 title: "Genetic sequence clustering using unsupervised clustering algorithms and applications in mapping genotype to phenotype."
 collection: publications
 permalink: /publication/paper6
-excerpt: '[PDF](http://jamiree.github.io/files/paper6.pdf)'
+excerpt: 
 date: 
 venue:
 paperurl: 

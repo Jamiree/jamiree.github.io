@@ -2,7 +2,7 @@
 title: "Parameter estimation for parameter-varying systems using optimization and sparse regression."
 collection: publications
 permalink: /publication/paper4
-excerpt: '[PDF](http://jamiree.github.io/files/paper4.pdf)'
+excerpt: 
 date: 
 venue:
 paperurl: 

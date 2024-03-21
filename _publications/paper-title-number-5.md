@@ -2,7 +2,7 @@
 title: "Data-driven engineering, optimization, and phenotypic clustering of a novel hybrid promoter library for mixed-phase expression in prokaryotes."
 collection: publications
 permalink: /publication/paper5
-excerpt: '[PDF](http://jamiree.github.io/files/paper5.pdf)'
+excerpt: 
 date: 
 venue:
 paperurl: 
