@@ -18,5 +18,5 @@ that detects these discrete switches in data using binary segmentation and that 
 model to the data using optimization-based parameter estimation. We demonstrate the algorithm’s
 capabilities across several examples from ordinary differential equations (ODEs), parametric curves,
 and partial differential equations (PDEs). Lastly we show how dictionary-based sparse regression
-with universal function approximators, e.g., trigonometric, polyonmial functions, can be used in
+with universal function approximators, e.g., trigonometric, polynomial functions, can be used in
 conjunction with our algorithm to obtain time-varying or spatially-dependent parameter functions.
