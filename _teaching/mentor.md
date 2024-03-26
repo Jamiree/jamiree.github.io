@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Students"
 permalink: /teaching/mentor
 venue: "University of California, Santa Barbara"
-date: 2022 -2024
+date: 
 location: "City, Country"
 ---
 
