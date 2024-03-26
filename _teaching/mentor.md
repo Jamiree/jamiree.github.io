@@ -1,10 +1,10 @@
 ---
 title: "Research Mentor"
 collection: teaching
-type: "Undergraduate Courses"
+type: "Undergraduate Students"
 permalink: /teaching/mentor
 venue: "University of California, Santa Barbara"
-date: 2021-01-01
+date: 2022 -2024
 location: "City, Country"
 ---
 
