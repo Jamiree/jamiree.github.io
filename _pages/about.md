@@ -17,6 +17,8 @@ My current projects:
 
 -Validating time-varying genetic circuit models proposed and analyzed in my [paper](paper1.pdf) using the promoters from my hybrid promoter library.
 
+-For a friendly introduction to most of my current research, please read my recent [SIAM News article](https://www.siam.org/publications/siam-news/articles/time-varying-toggle-switches-in-living-cells-modeling-analysis-and-validation/)
+
 Interests : Control theory, mathematical modeling, system identification, optimization, data science, numerical analysis
 
 For more detailed info on my coursework, experience, and skillset, please see my [CV](http://jamiree.github.io/files/CV_Jamiree_Harrison.pdf) . 
