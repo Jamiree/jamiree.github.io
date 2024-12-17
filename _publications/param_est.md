@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-paper4
 excerpt: '[PDF](http://jamiree.github.io/files/param_est_paper_jamiree.pdf)'
 date: 2024-12-18
-venue: 'arxiv
+venue: 'arXiv'
 paperurl: 
 citation: 'Harrison, J.; Yeung, E. Estimating Varying Parameters in Dynamical Systems: A Modular Framework Using Switch Detection, Optimization, and Sparse Regression. arxiv'
 ---
