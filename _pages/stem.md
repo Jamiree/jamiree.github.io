@@ -20,6 +20,8 @@ Learn Math:
 
 - For abstract algebra, number theory, mathematica, and more, check out [Socratica](https://www.youtube.com/@Socratica/playlists).
 
+- For linear systems (undergrad level), check out [Linear Physical Systems Analysis](https://lpsa.swarthmore.edu) which was put together by Erik Cheever at Swarthmore.
+
 - For nonlinear dynamical systems and more, check out [Shane Ross](https://www.youtube.com/user/RossDynamicsLab).  He's kind enough to upload many lectures to youtube for free. 
 
 - For nonlinear dynamical systems, applied linear algebra, operator theory, machine learning, koopman operator theory, etc. check out [Nathan Kutz](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA).  He's kind enough to upload many lectures to youtube for free. 
