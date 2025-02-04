@@ -13,9 +13,9 @@ Currently working under the advisory of Enoch Yeung in the Biological Control La
 My current projects:
 ======
 
--Developing a hybrid promoter library which will provide a number of promoters with distinct gene activation profiles in both log and stationary phase.  
+-Developing a parameterized hybrid promoter library which will provide a number of promoters with distinct gene activation profiles in both log and stationary phase.  
 
--Validating time-varying genetic circuit models proposed and analyzed in my [paper](paper1.pdf) using the promoters from my hybrid promoter library.
+-Validating time-varying genetic circuit models proposed and analyzed in this [paper](paper1.pdf) using the promoters from my hybrid promoter library and the algorithmic framework from this [paper](param_est_paper_jamiree.pdf) .
 
 -For a friendly introduction to most of my current research, please read my recent [SIAM News article](https://www.siam.org/publications/siam-news/articles/time-varying-toggle-switches-in-living-cells-modeling-analysis-and-validation/)
 
