@@ -39,15 +39,15 @@ Tutor:
 - Differential Equations : Math 4B | 1 quarter
 - Matrix Analysis : ME 210A | 1 quarter
 
-John Hopkins University (2021 - 2022) | Tutor
+John Hopkins University | Tutor (2021 - 2022) 
 ======
 - Robot Devices, Kinematics, Dynamics, and Control : EN.530.646 | 1 quarter
 - Nonlinear Control and Planning in Robotics : EN.530.678 | 1 quarter
 
-Carnegie Mellon University (2022) | Tutor
+Carnegie Mellon University | Tutor (2022)
 ======
 - Dynamic Systems and Controls : 24-352 | 1 quarter
 
-University of Southern California (2023) | Tutor
+University of Southern California | Tutor (2023)
 ======
 - Linear Systems Theory : EE 585 | 1 quarter
