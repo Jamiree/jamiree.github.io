@@ -30,8 +30,8 @@ Teaching Assistant:
 
 Tutor:
 - Engineering Mechanics (Vibrations) : ME 163 | 2 quarters
-- Robotic Dynamics and Control : ECE 179D 1 | quarter
-- Intro to Programming (MATLAB) : Engr 3 1 | quarter
+- Robotic Dynamics and Control : ECE 179D | 1 quarter
+- Intro to Programming (MATLAB) : Engr 3 | 1 quarter
 - Mechatronics : ME 104 | 1 quarter
 - Numerical Analysis : Math 104B | 2 quarters
 - Real Analysis : Math 118A | 1 quarter
