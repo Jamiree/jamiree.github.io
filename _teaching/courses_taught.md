@@ -8,10 +8,6 @@ date: 2025-06-01
 location: 
 ---
 
-Facilitated math workshops for college students.
-Worked with professors to develop lesson plans.
-Proctored Exams.
-
 University of California, San Diego (2016 - 2019)
 ======
 Supplemental Instructor:
