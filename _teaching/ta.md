@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/ta
 venue: "University of California, Santa Barbara"
-date: 2019-2024
+date: 2025-06-01
 location: "City, Country"
 ---
 
