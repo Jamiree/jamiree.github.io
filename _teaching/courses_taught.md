@@ -10,6 +10,9 @@ location:
 
 Teaching Assistant / Tutor / Supplemental Instructor
 
+Note: My official affiliations have been with UCSD and UCSB.  
+The other universities only the held courses for which I was helping my tutees. 
+
 University of California, San Diego (2016 - 2019)
 ======
 Supplemental Instructor:
