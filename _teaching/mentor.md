@@ -15,14 +15,14 @@ Bardia Khosravi | Biological Control Lab
 - Continuing bachelor’s degree at UCSD in fall 2023
 
 Kevin Chang | Biological Control Lab
-- Undergraduate research assistant at UCSB, 2023-Present
+- Undergraduate research assistant at UCSB, 2023-2025
 
 Annie Nguyen | Biological Control Lab
-- Undergraduate research assistant at UCSB, 2023-Present
+- Undergraduate research assistant at UCSB, 2023-2025
 
 Jai Mehra | Biological Control Lab
-- Undergraduate research assistant at UCSB, 2023-Present
+- Undergraduate research assistant at UCSB, 2023-2026
 
 Isabella Escamilla | Biological Control Lab
-- Undergraduate research assistant at UCSB, 2023-Present
+- Undergraduate research assistant at UCSB, 2023-2024
 
